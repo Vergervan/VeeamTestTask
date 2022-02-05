@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacanciesApp", "VacanciesApp.csproj", "{CE33B553-9EFB-4DFE-9CAF-1809B392E3DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacanciesAppTest", "..\VacanciesAppTest\VacanciesAppTest.csproj", "{8D5D7943-E7A8-4FDA-A64A-09B0A70BC828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE33B553-9EFB-4DFE-9CAF-1809B392E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE33B553-9EFB-4DFE-9CAF-1809B392E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE33B553-9EFB-4DFE-9CAF-1809B392E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE33B553-9EFB-4DFE-9CAF-1809B392E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5D7943-E7A8-4FDA-A64A-09B0A70BC828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5D7943-E7A8-4FDA-A64A-09B0A70BC828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5D7943-E7A8-4FDA-A64A-09B0A70BC828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5D7943-E7A8-4FDA-A64A-09B0A70BC828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD186914-01A5-44C9-B0E9-8FA31487D57A}
+	EndGlobalSection
+EndGlobal
